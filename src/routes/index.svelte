@@ -166,4 +166,4 @@
 		}}>This is incorrect</button
 	>
 {/each}
-<h6>Svelte version: {VERSION}</h6>
+<!-- <h6>Svelte version: {VERSION}</h6> -->
